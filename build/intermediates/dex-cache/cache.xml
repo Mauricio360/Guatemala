@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/programadormd/AndroidStudioProjects/Guatemala/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/programadormd/AndroidStudioProjects/Guatemala/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_b3cd75639dfbce5b2c9531038621fd072084c4de.jar" />
+    </item>
+    <item
+        jar="/home/programadormd/AndroidStudioProjects/Guatemala/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/programadormd/AndroidStudioProjects/Guatemala/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_0d33fb9e23daa441c423abf44733dbd2a0f0efa7.jar" />
+    </item>
+    <item
+        jar="/home/programadormd/AndroidStudioProjects/Guatemala/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/programadormd/AndroidStudioProjects/Guatemala/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_753b10a0f1505c092c88a2b7d1f3e9d57f7cb324.jar" />
+    </item>
+    <item
+        jar="/home/programadormd/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/programadormd/AndroidStudioProjects/Guatemala/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_cf2e0ac3d18c1299c04b47be3f56c24b24eb23e0.jar" />
+    </item>
+
+</items>
